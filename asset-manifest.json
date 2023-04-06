@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Mecoloji/React-four-card-feature-section/static/css/main.8c84eea1.css",
-    "main.js": "/Mecoloji/React-four-card-feature-section/static/js/main.6537c554.js",
-    "static/media/icon-karma.svg": "/Mecoloji/React-four-card-feature-section/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
-    "static/media/icon-supervisor.svg": "/Mecoloji/React-four-card-feature-section/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
-    "static/media/icon-team-builder.svg": "/Mecoloji/React-four-card-feature-section/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
-    "static/media/icon-calculator.svg": "/Mecoloji/React-four-card-feature-section/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
-    "index.html": "/Mecoloji/React-four-card-feature-section/index.html",
-    "main.8c84eea1.css.map": "/Mecoloji/React-four-card-feature-section/static/css/main.8c84eea1.css.map",
-    "main.6537c554.js.map": "/Mecoloji/React-four-card-feature-section/static/js/main.6537c554.js.map"
+    "main.css": "/react-four-card-feature-section/static/css/main.8c84eea1.css",
+    "main.js": "/react-four-card-feature-section/static/js/main.a5d5e469.js",
+    "static/media/icon-karma.svg": "/react-four-card-feature-section/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/react-four-card-feature-section/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "static/media/icon-team-builder.svg": "/react-four-card-feature-section/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/react-four-card-feature-section/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
+    "index.html": "/react-four-card-feature-section/index.html",
+    "main.8c84eea1.css.map": "/react-four-card-feature-section/static/css/main.8c84eea1.css.map",
+    "main.a5d5e469.js.map": "/react-four-card-feature-section/static/js/main.a5d5e469.js.map"
   },
   "entrypoints": [
     "static/css/main.8c84eea1.css",
-    "static/js/main.6537c554.js"
+    "static/js/main.a5d5e469.js"
   ]
 }
